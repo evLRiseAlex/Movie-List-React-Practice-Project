@@ -11,3 +11,10 @@ Practice project to develop various skills:
 - Splitting up components;
 - Handling onMouseEnter and onMouseLeave events.
 - Granting external access to internal state through props.
+
+- useEffect Practice
+- Clearing Effects;
+- Experimenting with the async nature of state setting.
+- Storing the movie data in local storage.
+- Initialized the watched State using a callback function.
+- Implemented minor search features using useRef()
